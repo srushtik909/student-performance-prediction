@@ -1,0 +1,15 @@
+# Ignore virtual environments and system files
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Model & dataset folders (optional)
+models/
+*.pkl
+*.csv
